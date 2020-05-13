@@ -8,7 +8,7 @@ Make sure you have at least Python 3.8 installed from either [Python.org](https:
 To install, open up Command Prompt and type in the following command: 
 `pip3 install discord.py`. It may show you some warnings about an outdated pip install, but that is not really an issue in this case. Running that command gives you support for Discord-specific commands that are present in the code. After you've installed the dependencies needed, you should be good to go! Follow these steps:
 
- 1. Download the latest facts.py from [Releases](https://github.com/AGaiki/Fish-Facts/releases/tag/v1). You should move this somewhere other than downloads (optional, although recommended), somewhere like Documents. You can also rename it if you'd like, but this tutorial will assume you are using facts.py as your filename. Using your favorite code editor (Visual Studio Code, 
+ 1. Download the latest facts.py from [Releases](https://github.com/AGaiki/Facts-Bot/releases). You should move this somewhere other than downloads (optional, although recommended), somewhere like Documents. You can also rename it if you'd like, but this tutorial will assume you are using facts.py as your filename. Using your favorite code editor (Visual Studio Code, 
 Notepad ++, Notepad?), make sure to customize the facts.py commands and responses to your heart's content, as the version from the Releases page is a template you need to edit. Make sure that your actual content is separated from each other with commas and quotes. Something like this: `"Statement 1",
  "Statement 2", etc`
  
