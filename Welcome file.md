@@ -8,13 +8,15 @@ Make sure you have at least Python 3.8 installed from either [Python.org](https:
 To install, open up Command Prompt and type in the following command: 
 `pip3 install discord.py`. It may show you some warnings about an outdated pip install, but that is not really an issue in this case. Running that command gives you support for Discord-specific commands that are present in the code. After you've installed the dependencies needed, you should be good to go! Follow these steps:
 
- 1. Download the latest facts.py from [Releases](https://github.com/AGaiki/Fish-Facts/releases/tag/v1). You should move this somewhere other than downloads (optional, although recommended), somewhere like Documents. You can also rename it if you'd like, but this tutorial will assume you are using facts.py as your filename. Using your favorite code editor (Visual Studio Code, Notepad ++, Notepad?), make sure to customize the facts.py commands and responses to your heart's content, as the version from the Releases page is a template you need to edit. Make sure that your actual content is separated from each other with commas and quotes. Something like this: `"Statement 1",
+ 1. Download the latest facts.py from [Releases](https://github.com/AGaiki/Fish-Facts/releases/tag/v1). You should move this somewhere other than downloads (optional, although recommended), somewhere like Documents. You can also rename it if you'd like, but this tutorial will assume you are using facts.py as your filename. Using your favorite code editor (Visual Studio Code, 
+Notepad ++, Notepad?), make sure to customize the facts.py commands and responses to your heart's content, as the version from the Releases page is a template you need to edit. Make sure that your actual content is separated from each other with commas and quotes. Something like this: `"Statement 1",
  "Statement 2", etc`
  
  3. On the very last line of the facts.py file, you need to edit the "TOKEN" field with your Discord bot token. You can find the instructions on how to do so [here](https://discordpy.readthedocs.io/en/latest/discord.html).
+
  4. Finally, open up Command Prompt and navigate to your facts.py. Assuming you've moved it to the Documents folder, you would type into Command Prompt: 
  `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your facts.py file, type in: `python facts.py`(if you changed the filename from facts.py to something else, change the bot to the correct filename).
  5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODY0Nzg3NV19
+eyJoaXN0b3J5IjpbLTE4NDgxMTQ5NV19
 -->
