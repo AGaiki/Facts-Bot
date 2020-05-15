@@ -1,4 +1,3 @@
-#fish fax
 import os
 import random, requests
 from discord.ext import commands
