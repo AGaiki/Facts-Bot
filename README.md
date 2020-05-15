@@ -24,10 +24,12 @@ You are here because you either scrolled down past the basic installation instru
 
  1. Make sure you have all the dependencies and the program, facts.py, itself.
  2. Create a new file in the **same folder** as facts.py (again, not necessary for hosting on Repl.it). Call it something like facts.txt (make sure you have your file extensions enabled if you are using Windows/macOS). The file name is facts, while the file extension is txt. This guide will assume you are using facts.txt as the file name.
- 3. Populate facts.txt with any facts or information that you want. Remember, the actual python code itself calls for the bot to pick a random fact each time. Remember to also separate each fact by creating a new line. It should look like this:
+ 3. Populate facts.txt with any facts or information that you want. Remember, the actual python code itself calls for the bot to pick a random fact each time. Remember to also separate each fact by creating a new line.
+ 4. Now time for the fun stuff! Coding time! 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjUzNDU2LDcxNzg4Mjk4NCw5NzE4OD
-EzNDYsMjAxNTg4MCwtMTg0ODExNDk1XX0=
+eyJoaXN0b3J5IjpbLTIwODMzNzQ2NDksLTc4MjUzNDU2LDcxNz
+g4Mjk4NCw5NzE4ODEzNDYsMjAxNTg4MCwtMTg0ODExNDk1XX0=
+
 -->
