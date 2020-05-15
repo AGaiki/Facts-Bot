@@ -23,9 +23,9 @@ You are here because you either scrolled down past the basic installation instru
  
 
  1. Make sure you have all the dependencies and the program, facts.py, itself.
- 2. 
+ 2. After the last `import` command in the code
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjQzMjE0Nyw3MTc4ODI5ODQsOTcxOD
+eyJoaXN0b3J5IjpbLTEyOTI4MTkwNSw3MTc4ODI5ODQsOTcxOD
 gxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
 -->
