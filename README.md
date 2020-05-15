@@ -23,9 +23,9 @@ You are here because you either scrolled down past the basic installation instru
  
 
  1. Make sure you have all the dependencies and the program, facts.py, itself.
- 2. After the last `import` command in the code
+ 2. Create a new file in the **same folder** as facts.py. Call it something like facts.csv (make sure you have your file extensions enabled if you are using Windows/macOS). This guide will assume you are using facts.csv
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI4MTkwNSw3MTc4ODI5ODQsOTcxOD
+eyJoaXN0b3J5IjpbLTU5MDkzMjE3MSw3MTc4ODI5ODQsOTcxOD
 gxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
 -->
