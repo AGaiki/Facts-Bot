@@ -11,13 +11,14 @@ To install, open up Command Prompt and type in the following command:
  1. Download the latest facts.py from [Releases](https://github.com/AGaiki/Facts-Bot/releases). You should move this somewhere other than downloads (optional, although recommended), somewhere like Documents. You can also rename it if you'd like, but this tutorial will assume you are using facts.py as your filename. Using your favorite code editor (Visual Studio Code, 
 Notepad ++, Notepad?), make sure to customize the facts.py commands and responses to your heart's content, as the version from the Releases page is a template you need to edit. Make sure that your actual content is separated from each other with commas and quotes. Something like this: `"Statement 1",
  "Statement 2", etc`
- 
+ **NOTE: If you would like to create a database of content (instead of hardcoding it to your actual code, go o ad**
  3. On the very last line of the facts.py file, you need to edit the "TOKEN" field with your Discord bot token. You can find the instructions on how to do so [here](https://discordpy.readthedocs.io/en/latest/discord.html).
 
  4. Finally, open up Command Prompt and navigate to your facts.py. Assuming you've moved it to the Documents folder, you would type into Command Prompt: 
  `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your facts.py file, type in: `python facts.py`(if you changed the filename from facts.py to something else, change the bot to the correct filename).
  5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** If you cannot, for some reason fulfill these requirements, you can follow [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot) to host your bot on Repl.it.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxODgxMzQ2LDIwMTU4ODAsLTE4NDgxMT
-Q5NV19
+eyJoaXN0b3J5IjpbLTIwNjkzMjQ4MzksOTcxODgxMzQ2LDIwMT
+U4ODAsLTE4NDgxMTQ5NV19
 -->
