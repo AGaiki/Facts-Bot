@@ -19,8 +19,8 @@ Notepad ++, Notepad?), make sure to customize the facts.py commands and response
  5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** If you cannot, for some reason fulfill these requirements, you can follow [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot) to host your bot on Repl.it.
 
 # Advanced Installation
-You are here because you either scrolled down past the basic installation instructions and/or you want to 
+You are here because you either scrolled down past the basic installation instructions and/or you want to make your end product easier to modify and somewhat automate it. It will be a tad bit difficult and require more advanced coding know-ho
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTA0MjI4Myw3MTc4ODI5ODQsOTcxOD
-gxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
+eyJoaXN0b3J5IjpbLTIwMjIwOTEyMjcsNzE3ODgyOTg0LDk3MT
+g4MTM0NiwyMDE1ODgwLC0xODQ4MTE0OTVdfQ==
 -->
