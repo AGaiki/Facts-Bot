@@ -31,10 +31,10 @@ You are here because you either scrolled down past the basic installation instru
         'Test 2',
         'Test 3'
     ]`. Delete everything from the first bracket to the last. Keep the fax variable. Now, set the variable "fax" equal to the list of "factstext". You would implement it like so: `fax = list(factstext).` You can leave your "response" untouched.
-    6. Success! It should (theoretically) work! If it somehow oe
+    6. Success! It should (theoretically) work! If it somehow doesn't, double check your code. If debugging your code still doesn't work, open up an issue ticket, and we'll go from there!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDYyMzg3NiwtNzgyNTM0NTYsNzE3OD
+eyJoaXN0b3J5IjpbLTU2MjgyMjY4NSwtNzgyNTM0NTYsNzE3OD
 gyOTg0LDk3MTg4MTM0NiwyMDE1ODgwLC0xODQ4MTE0OTVdfQ==
 
 -->
