@@ -19,8 +19,8 @@ Notepad ++, Notepad?), make sure to customize the facts.py commands and response
  5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** Another option to host it is following [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot), which will show you how to host your bot on Repl.it.
 
 # Advanced Installation
-You are here because you either scrolled down past the basic installation instructions and/or you want to make your end product easier to modify and somewhat automate it. It will be a tad bit difficult and require more advanced coding "know-how." It is recommended you create a fold 
+You are here because you either scrolled down past the basic installation instructions and/or you want to make your end product easier to modify and somewhat automate it. It will be a tad bit difficult and require more advanced coding "know-how." It is recommended you create a folder housing facts.py, as soon, that folder will be populated with another folder. These steps can also be imitated with Repl.it. This guide will assume that you are housing your facts.py file in its own folder. With all that in mind, let us begin! 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY4OTk1NTQsNzE3ODgyOTg0LDk3MT
-g4MTM0NiwyMDE1ODgwLC0xODQ4MTE0OTVdfQ==
+eyJoaXN0b3J5IjpbMTE5NTk3MjAxMiw3MTc4ODI5ODQsOTcxOD
+gxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
 -->
