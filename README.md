@@ -11,7 +11,7 @@ To install, open up Command Prompt and type in the following command:
  1. Download the latest facts.py from [Releases](https://github.com/AGaiki/Facts-Bot/releases). You should move this somewhere other than downloads (optional, although recommended), somewhere like Documents. You can also rename it if you'd like, but this tutorial will assume you are using facts.py as your filename. Using your favorite code editor (Visual Studio Code, 
 Notepad ++, Notepad?), make sure to customize the facts.py commands and responses to your heart's content, as the version from the Releases page is a template you need to edit. Make sure that your actual content is separated from each other with commas and quotes. Something like this: `"Statement 1",
  "Statement 2", etc`
- **NOTE: If you would like to create a database of content (instead of hardcoding it to your actual code), go to Advanced.**
+ **NOTE: If you would like to create a database of content (instead of hardcoding it to your actual code), go to [Advanced.](https://github.com/AGaiki/Facts-Bot#advanced-installation)**
  3. On the very last line of the facts.py file, you need to edit the "TOKEN" field with your Discord bot token. You can find the instructions on how to do so [here](https://discordpy.readthedocs.io/en/latest/discord.html).
 
  4. Finally, open up Command Prompt and navigate to your facts.py. Assuming you've moved it to the Documents folder, you would type into Command Prompt: 
@@ -19,8 +19,8 @@ Notepad ++, Notepad?), make sure to customize the facts.py commands and response
  5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** If you cannot, for some reason fulfill these requirements, you can follow [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot) to host your bot on Repl.it.
 
 # Advanced Installation
-1. Follow Steps 0-1 from the Basic
+You are here because you either scrolled down past the basic installation instructions and/or you want to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE3ODgyOTg0LDk3MTg4MTM0NiwyMDE1OD
-gwLC0xODQ4MTE0OTVdfQ==
+eyJoaXN0b3J5IjpbLTI3MTA0MjI4Myw3MTc4ODI5ODQsOTcxOD
+gxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
 -->
