@@ -30,11 +30,11 @@ You are here because you either scrolled down past the basic installation instru
         'Test',
         'Test 2',
         'Test 3'
-    ]`. Delete everything from the first bracket to the last. Keep the fax variable. Now, set the variable "fax" equal to the list of "factstext". You would implement it like so: `fax = list(factstext).`
-    6. Finally, make sure that all of your variables are in the right place. Your final code should look something like this: `` 
+    ]`. Delete everything from the first bracket to the last. Keep the fax variable. Now, set the variable "fax" equal to the list of "factstext". You would implement it like so: `fax = list(factstext).` You can leave your "response" untouched.
+    6. Success! It should (theoretically) work! If it somehow oe
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU3NTE2NTAsLTc4MjUzNDU2LDcxNz
-g4Mjk4NCw5NzE4ODEzNDYsMjAxNTg4MCwtMTg0ODExNDk1XX0=
+eyJoaXN0b3J5IjpbLTY0MDYyMzg3NiwtNzgyNTM0NTYsNzE3OD
+gyOTg0LDk3MTg4MTM0NiwyMDE1ODgwLC0xODQ4MTE0OTVdfQ==
 
 -->
