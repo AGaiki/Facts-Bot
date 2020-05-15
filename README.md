@@ -16,11 +16,11 @@ Notepad ++, Notepad?), make sure to customize the facts.py commands and response
 
  4. Finally, open up Command Prompt and navigate to your facts.py. Assuming you've moved it to the Documents folder, you would type into Command Prompt: 
  `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your facts.py file, type in: `python facts.py`(if you changed the filename from facts.py to something else, change the bot to the correct filename).
- 5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** If you cannot, for some reason fulfill these requirements, you can follow [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot) to host your bot on Repl.it.
+ 5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** Another option to host it is following [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot), which will show you how to host your bot on Repl.it.
 
 # Advanced Installation
-You are here because you either scrolled down past the basic installation instructions and/or you want to make your end product easier to modify and somewhat automate it. It will be a tad bit difficult and require more advanced coding know-ho
+You are here because you either scrolled down past the basic installation instructions and/or you want to make your end product easier to modify and somewhat automate it. It will be a tad bit difficult and require more advanced coding "know-how." It is recommended you create a fold 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIwOTEyMjcsNzE3ODgyOTg0LDk3MT
+eyJoaXN0b3J5IjpbLTE2MjY4OTk1NTQsNzE3ODgyOTg0LDk3MT
 g4MTM0NiwyMDE1ODgwLC0xODQ4MTE0OTVdfQ==
 -->
