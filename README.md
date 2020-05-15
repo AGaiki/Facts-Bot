@@ -2,7 +2,7 @@
 # Facts Bot
 This is a simple Discord bot that picks a random fact from a given list. This is a work in progress, as all the facts have to be coded into the program, rather than the program reading from  a database. This guide is sorta copied from my [Bed Wars Defense Bot guide](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot). Luckily, the steps are more or less the same.
 
-# Installation / Building - Python Edition
+# Installation / Building - Basic
 Make sure you have at least Python 3.8 installed from either [Python.org](https://www.python.org/downloads/) or the [Microsoft Store (for Windows 10 ONLY)](https://www.microsoft.com/en-us/p/python-38/9mssztt1n39l?activetab=pivot:overviewtab). For some reason, the Microsoft Store edition of Python has given me more success than the python.org version, but you can figure out what you want to use. If you are using macOS or a Linux distribution, you can install the appropriate versions of Python. For the purposes of these tutorial, we will assume you are using Windows 10. The commands are more or less the same, so no matter what OS you have, you should be able to run it successfully. After you have installed Python, you need to install [discord.py](https://pypi.org/project/discord.py/). There are two versions of discord.py available, one with only text based support and one with both text and voice based support. Since this is a very basic bot, you need not worry about installing the voice edition. 
 
 To install, open up Command Prompt and type in the following command: 
@@ -18,5 +18,6 @@ Notepad ++, Notepad?), make sure to customize the facts.py commands and response
  `cd Documents` (or wherever you've saved it). After you have successfully navigated to the location of your facts.py file, type in: `python facts.py`(if you changed the filename from facts.py to something else, change the bot to the correct filename).
  5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** If you cannot, for some reason fulfill these requirements, you can follow [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot) to host your bot on Repl.it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTg4MCwtMTg0ODExNDk1XX0=
+eyJoaXN0b3J5IjpbOTcxODgxMzQ2LDIwMTU4ODAsLTE4NDgxMT
+Q5NV19
 -->
