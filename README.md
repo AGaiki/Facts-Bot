@@ -19,7 +19,7 @@ Notepad ++, Notepad?), make sure to customize the facts.py commands and response
  5. Success! You have configured a bot properly! Good job! Feel free to play around with the Python syntax as you wish. **Your bot will go offline if you shut off the hosting computer, disconnect from a network, or close the Command Prompt window.** Another option to host it is following [these steps](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot), which will show you how to host your bot on Repl.it.
 
 # Advanced Installation
-You are here because you either scrolled down past the basic installation instructions and/or you want to make your end product easier to modify and somewhat automate it. It will be a tad bit difficult and require more advanced coding "know-how." It is recommended you create a folder housing facts.py, as soon, that folder will be populated with another folder. These steps can also be imitated with Repl.it. This guide will assume that you are housing your facts.py file in its own folder (not necessary for Repl.it). With all that in mind, let us begin!
+You are here because you either scrolled down past the basic installation instructions and/or you want to make your end product easier to modify and somewhat automate it. It will be a tad bit difficult and require more advanced coding "know-how." However, after completing this successfully, you will release that it is more flexible in modification and more user friendly. It is recommended you create a folder housing facts.py, as soon, that folder will be populated with another folder. These steps can also be imitated with Repl.it. This guide will assume that you are housing your facts.py file in its own folder (not necessary for Repl.it). With all that in mind, let us begin!
  
 
  1. Make sure you have all the dependencies and the program, facts.py, itself.
@@ -31,9 +31,9 @@ You are here because you either scrolled down past the basic installation instru
         'Test 2',
         'Test 3'
     ]`. Delete everything from the first bracket to the last. Keep the fax variable. Now, set the variable "fax" equal to the list of "factstext". You would implement it like so: `fax = list(factstext).`
+    6. Finally, replace the re 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTA4MzIzNywtNzgyNTM0NTYsNzE3OD
-gyOTg0LDk3MTg4MTM0NiwyMDE1ODgwLC0xODQ4MTE0OTVdfQ==
-
+eyJoaXN0b3J5IjpbODM1MTY1NDMyLC03ODI1MzQ1Niw3MTc4OD
+I5ODQsOTcxODgxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
 -->
