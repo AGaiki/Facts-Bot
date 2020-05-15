@@ -31,9 +31,10 @@ You are here because you either scrolled down past the basic installation instru
         'Test 2',
         'Test 3'
     ]`. Delete everything from the first bracket to the last. Keep the fax variable. Now, set the variable "fax" equal to the list of "factstext". You would implement it like so: `fax = list(factstext).`
-    6. Finally, replace the re 
+    6. Finally, make sure that all of your variables are in the right place. Your final code should look something like this: `` 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1MTY1NDMyLC03ODI1MzQ1Niw3MTc4OD
-I5ODQsOTcxODgxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
+eyJoaXN0b3J5IjpbLTE5NTU3NTE2NTAsLTc4MjUzNDU2LDcxNz
+g4Mjk4NCw5NzE4ODEzNDYsMjAxNTg4MCwtMTg0ODExNDk1XX0=
+
 -->
