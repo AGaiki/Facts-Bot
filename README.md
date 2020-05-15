@@ -26,13 +26,14 @@ You are here because you either scrolled down past the basic installation instru
  2. Create a new file in the **same folder** as facts.py (again, not necessary for hosting on Repl.it). Call it something like facts.txt (make sure you have your file extensions enabled if you are using Windows/macOS). The file name is facts, while the file extension is txt. This guide will assume you are using facts.txt as the file name.
  3. Populate facts.txt with any facts or information that you want. Remember, the actual python code itself calls for the bot to pick a random fact each time. Remember to also separate each fact by creating a new line.
  4. Move to the facts.py file. After the last `import` function and before the `bot = commands.Bot(command_prefix='!')` function, make sure to add `factstext = open("facts.txt").read().splitlines()`. Basically, we are creating a new variable called "factstext" and defining it to open a text file called "facts.txt," and then read it (`.read()`). We also add `.splitlines()` to tell the program that we are splitting the string each time we have a new line break.
- 5. In our original code, we hard-coded some facts into it. It looks like this: ` fish_fax = [ 
+ 5. In our original code, we hard-coded some facts into it. It looks like this: ` fax = [ 
         'Test',
         'Test 2',
         'Test 3'
-    ]`. Delete everything from the first bracket to the last. Keep the fish_fax variable. 
+    ]`. Delete everything from the first bracket to the last. Keep the fax variable.
+6. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM1NDIyNzAwLC03ODI1MzQ1Niw3MTc4OD
+eyJoaXN0b3J5IjpbNzUzNTY4NDgwLC03ODI1MzQ1Niw3MTc4OD
 I5ODQsOTcxODgxMzQ2LDIwMTU4ODAsLTE4NDgxMTQ5NV19
 -->
