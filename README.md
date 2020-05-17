@@ -32,10 +32,10 @@ You are here because you either scrolled down past the basic installation instru
     ]`. Delete everything from the first bracket to the last. Keep the fax variable. Now, set the variable "fax" equal to the list of "factstext". You would implement it like so: `fax = list(factstext).` You can leave your "response" untouched.
     6. Success! It should (theoretically) work! If it somehow doesn't, double check your code. If debugging your code still doesn't work, open up an issue ticket, and we'll go from there!
 
-**Optional (ONLY FOR ADVANCED INSTALLATION USERS!!!):**
-Let's just say that you do not want to run the final iteration of the bot using Python for any reason.
+**Optional - Running your bot as a Windows executable (ONLY FOR ADVANCED INSTALLATION USERS!!!):**
+Let's just say that you do not want to run the final iteration of the bot using Python for any reason. You can actually run the bot as an executuable. Keep in mind, you still need to have Python installed in order to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODgwMDI3MiwtMzkxODk4ODExLDIxMj
+eyJoaXN0b3J5IjpbLTgxODgzMzEzNSwtMzkxODk4ODExLDIxMj
 k1NTEyLC03ODI1MzQ1Niw3MTc4ODI5ODQsOTcxODgxMzQ2LDIw
 MTU4ODAsLTE4NDgxMTQ5NV19
 -->
