@@ -1,4 +1,4 @@
-# Facts Bot
+# Facts Bot (WIP)
 This is a simple Discord bot that picks a random fact from a given list. This is a work in progress, as all the facts have to be coded into the program, rather than the program reading from  a database. This guide is sorta copied from my [Bed Wars Defense Bot guide](https://github.com/AGaiki/Hypixel-Bed-Wars-Defense-Bot). Luckily, the steps are more or less the same.
 
 ## Installation / Building - Basic
@@ -33,6 +33,7 @@ You are here because you either scrolled down past the basic installation instru
     6. Success! It should (theoretically) work! If it somehow doesn't, double check your code. If debugging your code still doesn't work, open up an issue ticket, and we'll go from there!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTU1MTIsLTc4MjUzNDU2LDcxNzg4Mj
-k4NCw5NzE4ODEzNDYsMjAxNTg4MCwtMTg0ODExNDk1XX0=
+eyJoaXN0b3J5IjpbLTM5MTg5ODgxMSwyMTI5NTUxMiwtNzgyNT
+M0NTYsNzE3ODgyOTg0LDk3MTg4MTM0NiwyMDE1ODgwLC0xODQ4
+MTE0OTVdfQ==
 -->
